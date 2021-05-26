@@ -1,4 +1,11 @@
 body {
     background-color: aquamarine;
     color: darkred;
+    position: absolute;
+}
+.profile-image {
+   width: 200px;
+   float: right;
+   position: absolute;
+   top: 10px; 
 }
