@@ -1,0 +1,299 @@
+/* change link properties */
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #000000;
+}
+/* make images fit within dividers */
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block; /* remove extra space below image */
+}
+/* make text box fit within dividers */
+.text-box {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+h1 {
+  font-family: "Newsreader", serif;
+  color: #16DB8E;
+  font-size: 2em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+h2 {
+  font-family: "Newsreader", serif;
+  color: #DBA527;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+p {
+  padding-bottom: 20px;
+  line-height: 17px;
+  font-family: "Newsreader", serif;
+  font-size: 14px;
+  color: white;
+}
+/* set background image for poem title */
+
+body {
+  font-family: "Newsreader", serif;
+  font-size: 12px;
+  margin: 3em;
+  background: #4F8EDB;
+  background-image: linear-gradient(#B32CDB, #158F60, #16DB8E)/*(#362CA8, #4F8EDB, #5B5975)*/;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 6px;
+}
+.columnS {
+  float: left;
+  width: 21%;
+  padding: 0 6px;
+}
+.columnL {
+  float: left;
+  width: 30%;
+  padding: 0 6px;
+}
+.columnXl {
+  float: left;
+  width: 33.33%;
+  padding: 0 6px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {
+  margin: 0 -5px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+
+.card11 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fplague-stories.png?v=1621559535939");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card10 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fverity.png?v=1621560805223");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card9 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fmemoria.png?v=1621560993993");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card8 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fmommy-daddy.jpg?v=1621559532729");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 90%;
+  margin-bottom: 20px;
+}
+
+.card7 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Ffight-or-flight.png?v=1621559533721");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 90%;
+  margin-bottom: 20px;
+}
+.card6 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fstatistics.jpg?v=1621559533779");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 80%;
+  margin-bottom: 20px;
+}
+.card5 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fgone-lawn-logo.jpg?v=1621560799803");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card4 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Ftravelplaylive.jpg?v=1621559535479");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 90%;
+  margin-bottom: 20px;
+}
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fscum%20mag.png?v=1621561889032");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 90%;
+  margin-bottom: 20px;
+}
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fvanishing-act.png?v=1621559571034");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fsurfing.jpg?v=1621559532533");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 80%;
+  margin-bottom: 20px;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .column-wide {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .columnS {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .columnL {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .columnXl {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
