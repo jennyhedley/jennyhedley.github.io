@@ -50,6 +50,10 @@ p {
   font-size: 14px;
   color: white;
 }
+.black
+{
+  color: black;
+}
 /* set background image for poem title */
 
 body {
@@ -103,7 +107,21 @@ p {
 }
 
 /* Style the counter cards */
-.card12 {
+.card14 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fsplash_21_3.jpg?v=1628206142147");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card13 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -111,6 +129,20 @@ p {
   border-radius: 10px 10px 10px 10px;
   background-color: white;
   background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fcordite.png?v=1627784320538");
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-position: center;
+  background-size: 100%;
+  margin-bottom: 20px;
+}
+.card12 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fcover-54_orig.png?v=1628206004616");
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
