@@ -111,6 +111,23 @@ p {
 
 /* Style the counter cards */
 
+
+
+.card16 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/bodyshellgirl.png?v=1660385774705");
+  background-repeat: no-repeat;
+  background-attachment: contain;
+  background-position: center;
+  background-size: 70%;
+  margin-bottom: 20px;
+}
+
 .card15 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
@@ -120,7 +137,7 @@ p {
   background-color: white;
   background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/22_3toc.jpg?v=1658918803375");
   background-repeat: no-repeat;
-  background-attachment: cover;
+  background-attachment: contain;
   background-position: center;
   background-size: 100%;
   margin-bottom: 20px;
@@ -135,9 +152,9 @@ p {
   background-color: white;
   background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/cordite-gone.png?v=1654035346303");
   background-repeat: no-repeat;
-  background-attachment: cover;
+  background-attachment: contain;
   background-position: center;
-  background-size: 100%;
+  background-size: 90%;
   margin-bottom: 20px;
 }
 
