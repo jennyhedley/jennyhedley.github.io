@@ -74,7 +74,7 @@ body {
   font-size: 12px;
   margin: 3em;
   background: #4F8EDB;
-  background-image: linear-gradient(#f2e4fd, #B32CDB, #158F60, #16DB8E)/*#B32CDB, #158F60, #16DB8E(#362CA8, #4F8EDB, #5B5975)*/;
+  background-image: linear-gradient(#f2e4fd, #158F60, #16DB8E)/*#B32CDB, #158F60, #16DB8E(#362CA8, #4F8EDB, #5B5975)*/;
 }
 
 p {
