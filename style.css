@@ -43,7 +43,7 @@ h1 {
 h2 {
   font-family: "Newsreader", serif;
   color: black;
-  font-size: 2em;
+  font-size: 1.5em;
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
@@ -51,7 +51,7 @@ h2 {
 h3 {
   font-family: "Newsreader", serif;
   color: black;
-  font-size: 1.5em;
+  font-size: 1em;
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
