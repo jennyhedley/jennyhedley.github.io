@@ -1,23 +1,23 @@
 /* change link properties */
 a:link {
-  color: #16DB8E;
+  color: #B32CDB;
   
   text-decoration: none;
 }
 
 a:visited {
-  color: #16DB8E;
+  color: #B32CDB;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #16DB8E;
+  color: #B32CDB;
 }
 
 a:active {
   text-decoration: underline;
-  color: #16DB8E;
+  color: #B32CDB;
 }
 /* make images fit within dividers */
 img {
@@ -33,15 +33,25 @@ img {
 }
 h1 {
   font-family: "Newsreader", serif;
-  color: #16DB8E;
+  color: #B32CDB;
   font-size: 2em;
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
 }
+
 h2 {
   font-family: "Newsreader", serif;
-  color: #DBA527;
+  color: black;
+  font-size: 2em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+h3 {
+  font-family: "Newsreader", serif;
+  color: black;
+  font-size: 1.5em;
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
@@ -51,7 +61,7 @@ p {
   line-height: 17px;
   font-family: "Newsreader", serif;
   font-size: 14px;
-  color: white;
+  color: black;
 }
 .black
 {
@@ -64,7 +74,7 @@ body {
   font-size: 12px;
   margin: 3em;
   background: #4F8EDB;
-  background-image: linear-gradient(#B32CDB, #158F60, #16DB8E)/*(#362CA8, #4F8EDB, #5B5975)*/;
+  background-image: linear-gradient(#f2e4fd, #B32CDB, #158F60, #16DB8E)/*#B32CDB, #158F60, #16DB8E(#362CA8, #4F8EDB, #5B5975)*/;
 }
 
 p {
@@ -110,6 +120,21 @@ p {
 }
 
 /* Style the counter cards */
+/* Overland BBFT */
+.card19 { 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/big-beautiful-female-theory_CVR-400x541.jpg?v=1665052780858");
+  background-repeat: no-repeat;
+  background-attachment: contain;
+  background-position: center;
+  background-size: 60%;
+  margin-bottom: 20px;
+}
 /* Hills Hoise - Unacademic Essay */
 .card18 { 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
