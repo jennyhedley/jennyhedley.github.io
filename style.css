@@ -35,8 +35,8 @@ h1 {
   font-family: "Newsreader", serif;
   color: #B32CDB;
   font-size: 2em;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   text-align: center;
 }
 
@@ -120,6 +120,26 @@ p {
 }
 
 /* Style the counter cards */
+
+
+/* Archer sex ed */
+.card21 { 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/Screenshot%202023-01-06%20at%203.32.05%20PM.png?v=1672980045405");
+  background-repeat: no-repeat;
+  background-attachment: contain;
+  background-position: center;
+  background-size: 70%;
+  margin-bottom: 20px;
+}
+
+
+
 /* Archer sex ed */
 .card20 { 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
