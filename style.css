@@ -1,23 +1,23 @@
 /* change link properties */
 a:link {
-  color: #B32CDB;
-  
+  color: #b32cdb;
+
   text-decoration: none;
 }
 
 a:visited {
-  color: #B32CDB;
+  color: #b32cdb;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #B32CDB;
+  color: #b32cdb;
 }
 
 a:active {
   text-decoration: underline;
-  color: #B32CDB;
+  color: #b32cdb;
 }
 /* make images fit within dividers */
 img {
@@ -33,7 +33,7 @@ img {
 }
 h1 {
   font-family: "Newsreader", serif;
-  color: #B32CDB;
+  color: #b32cdb;
   font-size: 2em;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -63,8 +63,7 @@ p {
   font-size: 14px;
   color: black;
 }
-.black
-{
+.black {
   color: black;
 }
 /* set background image for poem title */
@@ -73,8 +72,9 @@ body {
   font-family: "Newsreader", serif;
   font-size: 12px;
   margin: 3em;
-  background: #4F8EDB;
-  background-image: linear-gradient(#f2e4fd, #158F60, #16DB8E)/*#B32CDB, #158F60, #16DB8E(#362CA8, #4F8EDB, #5B5975)*/;
+  background: #4f8edb;
+  background-image: linear-gradient(#f2e4fd, #158f60, #16db8e)
+    /*#B32CDB, #158F60, #16DB8E(#362CA8, #4F8EDB, #5B5975)*/;
 }
 
 p {
@@ -122,7 +122,7 @@ p {
 /* Style the counter cards */
 
 /* Profile pic */
-.card22 { 
+.card22 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -137,9 +137,24 @@ p {
   margin-bottom: 20px;
 }
 
+/* Westerly */
+.card23 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/My-project-22-255x313.jpg?v=1675404077826");
+  background-repeat: no-repeat;
+  background-attachment: contain;
+  background-position: center;
+  background-size: 60%;
+  margin-bottom: 20px;
+}
 
 /* TEXT motherbots */
-.card21 { 
+.card21 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -154,10 +169,8 @@ p {
   margin-bottom: 20px;
 }
 
-
-
 /* Archer sex ed */
-.card20 { 
+.card20 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -172,9 +185,8 @@ p {
   margin-bottom: 20px;
 }
 
-
 /* Overland BBFT */
-.card19 { 
+.card19 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -189,7 +201,7 @@ p {
   margin-bottom: 20px;
 }
 /* Hills Hoise - Unacademic Essay */
-.card18 { 
+.card18 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
@@ -204,7 +216,7 @@ p {
   margin-bottom: 20px;
 }
 /* Admissions */
-.card17 { 
+.card17 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   padding-top: 225px;
