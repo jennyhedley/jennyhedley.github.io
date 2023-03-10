@@ -125,10 +125,10 @@ p {
 .card22 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
-  padding-top: 225px;
-  padding-bottom: 225px;
+  padding-top: 125px;
+  padding-bottom: 125px;
   border-radius: 10px 10px 10px 10px;
-  background-color: white;
+  background-color: purple;
   background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/profile-pic.jpg?v=1673210693533");
   background-repeat: no-repeat;
   background-attachment: contain;
