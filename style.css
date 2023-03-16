@@ -425,11 +425,11 @@ p {
   padding-bottom: 225px;
   border-radius: 10px 10px 10px 10px;
   background-color: white;
-  background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fscum%20mag.png?v=1621561889032");
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/verge-2023-low-res-cover.jpg?v=1678420106670");
   background-repeat: no-repeat;
-  background-attachment: cover;
+  background-attachment: contain;
   background-position: center;
-  background-size: 90%;
+  background-size: 70%;
   margin-bottom: 20px;
 }
 .card2 {
@@ -441,8 +441,8 @@ p {
   background-color: white;
   background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fvanishing-act.png?v=1621559571034");
   background-repeat: no-repeat;
-  background-attachment: cover;
-  background-position: center;
+  background-attachment: contain;
+  background-position: cover;
   background-size: 100%;
   margin-bottom: 20px;
 }
