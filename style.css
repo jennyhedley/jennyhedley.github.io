@@ -442,7 +442,7 @@ p {
   background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fvanishing-act.png?v=1621559571034");
   background-repeat: no-repeat;
   background-attachment: contain;
-  background-position: cover;
+  background-position: center;
   background-size: 100%;
   margin-bottom: 20px;
 }
