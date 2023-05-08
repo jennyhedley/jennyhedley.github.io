@@ -136,6 +136,21 @@ p {
   background-size: 80%;
   margin-bottom: 20px;
 }
+/* Westerly durga  */
+.card24 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  padding-top: 225px;
+  padding-bottom: 225px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: white;
+  background-image: url("https://cdn.glitch.global/06309045-d841-46c4-b69d-204a6d4df908/daughters%20of%20durga.jpg?v=1683588498034");
+  background-repeat: no-repeat;
+  background-attachment: contain;
+  background-position: center;
+  background-size: 60%;
+  margin-bottom: 20px;
+}
 
 /* Westerly */
 .card23 {
