@@ -148,7 +148,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: contain;
   background-position: center;
-  background-size: 60%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 /* Westerly durga  */
@@ -195,7 +195,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: contain;
   background-position: center;
-  background-size: 70%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 
@@ -329,9 +329,9 @@ p {
   background-color: white;
   background-image: url("https://cdn.glitch.com/06309045-d841-46c4-b69d-204a6d4df908%2Fcover-54_orig.png?v=1628206004616");
   background-repeat: no-repeat;
-  background-attachment: cover;
+  background-attachment: contain;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 
@@ -346,7 +346,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 .card10 {
@@ -360,7 +360,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 .card9 {
@@ -374,7 +374,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 .card8 {
@@ -431,7 +431,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
   margin-bottom: 20px;
 }
 .card4 {
@@ -445,7 +445,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: cover;
   background-position: center;
-  background-size: 90%;
+  background-size: 70%;
   margin-bottom: 20px;
 }
 .card3 {
@@ -459,7 +459,7 @@ p {
   background-repeat: no-repeat;
   background-attachment: contain;
   background-position: center;
-  background-size: 70%;
+  background-size: 60%;
   margin-bottom: 20px;
 }
 .card2 {
